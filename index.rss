@@ -2,6 +2,7 @@
 <title>Nathan Hyde's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Product Manager (Level 4)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
 <item><title>Master Traveler (Level 8)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
@@ -21,5 +22,4 @@
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 <item><title>Traveler (Level 6)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
 <item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Apprentice Socialite (Level 3)</title><description>pushed a branch to a remote repository using git push</description></item>
 </channel></rss>
