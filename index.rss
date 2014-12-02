@@ -2,13 +2,24 @@
 <title>Nathan Hyde's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Apprentice Author (Level 2)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
-<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Stone Mason (Level 1)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
-<item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
+<item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Apprentice Thug (Level 1)</title><description>Forced pushed a branch with git push -f</description></item>
+<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
+<item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
+<item><title>Blacksmith (Level 6)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Master Author (Level 11)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Master Product Manager (Level 7)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
+<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Master Stone Mason (Level 11)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Master Historian (Level 7)</title><description>Investigate the commit log using git log.</description></item>
+<item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
+<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Apprentice Chimney Sweeper (Level 1)</title><description>Used git gc to run a number of housekeeping tasks on the current repository.</description></item>
+<item><title>Master Architect (Level 7)</title><description>Created a new repository with git init.</description></item>
+<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
 </channel></rss>
